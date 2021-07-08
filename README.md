@@ -15,7 +15,7 @@ It is forbidden to take already build images or use services like DockerHub.
 Use nodeport also forbidden.
 
 **How to use**  
-```./run.sh``` - to up Cluster
+```./setup.sh``` - to up Cluster
 
 **Result**
 - [x] - Kubernetes cluster raised with minikube
